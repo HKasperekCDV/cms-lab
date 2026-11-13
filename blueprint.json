@@ -1,0 +1,45 @@
+{
+    "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+    "landingPage": "/",
+    "preferredVersions": { "php": "8.3", "wp": "latest" }, "login": true,
+    "steps": [
+      { "step": "setSiteLanguage", "language": "pl_PL" },
+      {
+        "step": "installTheme",
+        "themeData": { "resource": "wordpress.org/themes", "slug": "twentytwentyfive" },
+        "options": { "activate": true }
+      },
+      {
+        "step": "installPlugin",
+        "pluginData": { "resource": "wordpress.org/plugins", "slug": "contact-form-7" }
+      },
+      {
+        "step": "installPlugin",
+        "pluginData": { "resource": "wordpress.org/plugins", "slug": "wordpress-seo" }
+      },
+      {
+        "step": "setSiteOptions",
+        "options": {
+          "blogname": "Efficient Software",
+          "blogdescription": "Od idei do działającej aplikacji webowej",
+          "permalink_structure": "/%postname%/"
+        }
+      },
+      {
+        "step": "wp-cli",
+        "command": "wp post delete 1 2 3 --force"
+      },
+      {
+        "step": "importWxr",
+        "file": { "resource": "url", "url": "https://raw.githubusercontent.com/HKasperekCDV/cms-lab/refs/heads/main/efficientsoftware.WordPress.2026-11-12.xml" }
+      },
+      {
+        "step": "setSiteOptions",
+        "options": {
+          "show_on_front": "page",
+          "page_on_front": 12,
+          "page_for_posts": 75
+        }
+      }
+    ]
+  }
