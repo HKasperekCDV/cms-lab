@@ -46,7 +46,9 @@ Grupa docelowa:
 
 ## Wtyczki
 Contact Form 7 - dla formularza kontakowego
+
 Yoast SEO - optymalizacja SEO (dla lepszego pozycjonowania w np Google) pod wyszukiwarki
+
 CookieYes - baner cookies 
 
 ## Uzasadnienie wyboru CMS
