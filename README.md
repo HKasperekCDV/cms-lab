@@ -45,6 +45,10 @@ Contact Form 7 - dla formularza kontakowego
 Yoast SEO - optymalizacja SEO (dla lepszego pozycjonowania w np Google) pod wyszukiwarki
 CookieYes - baner cookies 
 
+## Uzasadnienie wyboru CMS
+WordPress jest najpopularniejszym CMS'em, ma ogromny ekosystem wtyczek, dzięki jego popularności łatwo jest znaleźć developera jaki zna
+WordPressa, w porównaniu np do Wix czy Sanity - WordPress jest self-hosted, czyli nie mamy vendor lock, możemy sami go hostować gdzie chcemy i mamy kontrolę nad kodem i danymi
+
 ## Uruchomienie projektu
 można jednym kliknięciem korzystając z linka podanego wyżej dla wersji z Demo Playground, natomiast dla wersji w codespaces, 
 po uruchomieniu codespaces wystarczy wpisac **docker compose up -d** w terminalu by uruchomić, przygotować WordPressa, zrobić import w:
