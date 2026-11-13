@@ -11,12 +11,12 @@
       },
       {
         "step": "installPlugin",
-        "pluginData": { "resource": "wordpress.org/plugins", "slug": "contact-form-7" }
+        "pluginData": { "resource": "wordpress.org/plugins", "slug": "contact-form-7" },
         "options": { "activate": true }
       },
       {
         "step": "installPlugin",
-        "pluginData": { "resource": "wordpress.org/plugins", "slug": "wordpress-seo" }
+        "pluginData": { "resource": "wordpress.org/plugins", "slug": "wordpress-seo" },
         "options": { "activate": true }
       },
       {
