@@ -2,7 +2,8 @@
 
 ![screenshot1](https://raw.githubusercontent.com/HKasperekCDV/cms-lab/refs/heads/main/screenshots/screenshot1.png)
 
-![screenshot2](https://raw.githubusercontent.com/HKasperekCDV/cms-lab/refs/heads/main/screenshots/screenshot2.png)
+update po 14.11.2026
+![screenshot3](https://raw.githubusercontent.com/HKasperekCDV/cms-lab/refs/heads/main/screenshots/screenshot3.png)
 
 Autor: Hubert Kasperek
 
