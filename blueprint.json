@@ -16,6 +16,11 @@
       },
       {
         "step": "installPlugin",
+        "pluginData": { "resource": "wordpress.org/plugins", "slug": "classic-honeypot-for-cf7" },
+        "options": { "activate": true }
+      },
+      {
+        "step": "installPlugin",
         "pluginData": { "resource": "wordpress.org/plugins", "slug": "wordpress-seo" },
         "options": { "activate": true }
       },
