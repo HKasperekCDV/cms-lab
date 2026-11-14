@@ -975,107 +975,101 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/?page_id=69</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">Kim jesteśmy</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Adres naszej strony internetowej to: https://wpsandbox.wordpress.net/scope:jhxn-wkyy-whgm.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Komentarze</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Kiedy odwiedzający witrynę zostawia komentarz, zbieramy dane widoczne w formularzu komentowania, jak i adres IP odwiedzającego oraz podpis jego przeglądarki jako pomoc przy wykrywaniu spamu.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Anonimizowany ciąg znaków utworzony z twojego adresu email (zwany też hashem) może zostać przesłany do usługi Gravatar w celu sprawdzenia czy jest używany. Polityka prywatności usługi Gravatar jest dostępna pod adresem: https://automattic.com/privacy/. Po zatwierdzeniu komentarza twój obrazek profilowy jest widoczny publicznie w kontekście twojego komentarza.</p>
-<!-- /wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"className":"is-style-text-display","fontSize":"xx-large"} -->
+<p class="is-style-text-display has-xx-large-font-size">Polityka prywatności</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">Media</h2>
-<!-- /wp:heading -->
+<h2 class="wp-block-heading">Kto jest administratorem danych</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
 
-<!-- wp:paragraph -->
-<p>Jeśli jesteś zarejestrowanym użytkownikiem i wgrywasz na witrynę obrazki, powinieneś unikać przesyłania obrazków z tagami EXIF lokalizacji. Odwiedzający stronę mogą pobrać i odczytać pełne dane lokalizacyjne z obrazków w witrynie.</p>
-<!-- /wp:paragraph -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><!-- wp:paragraph -->
+<p>Administratorem danych jest Efficient Software sp. z o.o., ul. xyz, 00-000 Abc, NIP 0000000000, kontakt w sprawie przetwarzania danych: kontakt@example.com</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Ciasteczka</h2>
-<!-- /wp:heading -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><!-- wp:heading -->
+<h2 class="wp-block-heading">Jakie dane zbieramy</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
 
-<!-- wp:paragraph -->
-<p>Jeśli skomentujesz coś w witrynie, będzie można wybrać opcję zapisu nazwy, adresu email i witryny internetowej w ciasteczkach, dzięki którym podczas pisania kolejnych komentarzy powyższe informacje będą już dogodnie uzupełnione. Ciasteczka wygasają po roku.</p>
-<!-- /wp:paragraph -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><!-- wp:paragraph -->
+<p>Formularz kontaktowy: imię i nazwisko, adres e-mail  i treść wiadomości. Przetwarzamy je w celu odpowiedzi na twoje pytania lub propozycji oferty.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
 
-<!-- wp:paragraph -->
-<p>Jeśli odwiedzisz stronę logowania, utworzymy tymczasowe ciasteczko na potrzeby sprawdzenia czy twoja przeglądarka akceptuje ciasteczka. Nie zawiera ono żadnych danych osobistych i zostanie usunięte, kiedy przeglądarka zostanie zamknięta.</p>
-<!-- /wp:paragraph -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><!-- wp:heading -->
+<h2 class="wp-block-heading">Jak długo przechowujemy dane</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
 
-<!-- wp:paragraph -->
-<p>Podczas logowania tworzymy dodatkowo kilka ciasteczek potrzebnych do zapisu twoich informacji logowania oraz wybranych opcji ekranu. Ciasteczka logowania wygasają po dwóch dniach, a opcji ekranu po roku. Jeśli zaznaczysz opcję „Pamiętaj mnie”, logowanie wygaśnie po dwóch tygodniach. Jeśli wylogujesz się ze swojego konta, ciasteczka logowania zostaną usunięte.</p>
-<!-- /wp:paragraph -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><!-- wp:paragraph -->
+<p>Dane z formularza przechowujemy do roku od momentu otrzymania, a jeśli podpiszemy umowę - na czas zgodny z przepisami.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
 
-<!-- wp:paragraph -->
-<p>Jeśli zmodyfikujesz albo opublikujesz artykuł, w twojej przeglądarce zostanie zapisane dodatkowe ciasteczko. To ciasteczko nie zawiera żadnych danych osobistych, wskazując po prostu na identyfikator przed chwilą edytowanego artykułu. Wygasa ono po 1 dniu.</p>
-<!-- /wp:paragraph -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><!-- wp:heading -->
+<h2 class="wp-block-heading">Pliki cookies</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Osadzone treści z innych witryn</h2>
-<!-- /wp:heading -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><!-- wp:paragraph -->
+<p>Używamy plików cookies niezbędnych do działania witryny, pliki cookies analityczne i marketingowe zapisujemy tylko po twojej zgodzie wyrażonej w akceptacji baneru CookieYes.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
 
-<!-- wp:paragraph -->
-<p>Artykuły w witrynie mogą zawierać osadzone treści (np. filmy, obrazki, artykuły itp.). Osadzone treści z innych witryn zachowują się analogicznie do tego, jakby użytkownik odwiedził bezpośrednio konkretną witrynę.</p>
-<!-- /wp:paragraph -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><!-- wp:heading -->
+<h2 class="wp-block-heading">Czcionki</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
 
-<!-- wp:paragraph -->
-<p>Witryny mogą zbierać informacje o tobie, używać ciasteczek, dołączać dodatkowe, zewnętrzne systemy śledzenia i monitorować twoje interakcje z osadzonym materiałem, włączając w to śledzenie twoich interakcji z osadzonym materiałem jeśli posiadasz konto i jesteś zalogowany w tamtej witrynie.</p>
-<!-- /wp:paragraph -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><!-- wp:paragraph -->
+<p>Czcionki są serwowane z naszego serwera, więc twoje dane nie są przekazywane do stron trzecich</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Z kim dzielimy się danymi</h2>
-<!-- /wp:heading -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><!-- wp:heading -->
+<h2 class="wp-block-heading">Twoje prawa</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
 
-<!-- wp:paragraph -->
-<p>Jeśli zażądasz zresetowania hasła, twój adres IP zostanie dołączony do wysyłanej wiadomości.</p>
-<!-- /wp:paragraph -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><!-- wp:paragraph -->
+<p>Masz prawo do dostępu do swoich danych, lub do ich usunięcia.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Jak długo przechowujemy twoje dane</h2>
-<!-- /wp:heading -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><!-- wp:heading -->
+<h2 class="wp-block-heading">Aktualizacje polityki prywatności</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
 
-<!-- wp:paragraph -->
-<p>Jeśli zostawisz komentarz, jego treść i metadane będą przechowywane przez czas nieokreślony. Dzięki temu jesteśmy w stanie rozpoznawać i zatwierdzać kolejne komentarze automatycznie, bez wysyłania ich do każdorazowej moderacji.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Dla użytkowników którzy zarejestrowali się na naszej stronie internetowej (jeśli tacy są), przechowujemy również informacje osobiste wpisane w profilu. Każdy użytkownik może dokonać wglądu, korekty albo skasować swoje informacje osobiste w dowolnej chwili (nie licząc nazwy użytkownika, której nie można zmienić). Administratorzy strony również mogą przeglądać i modyfikować te informacje.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Jakie masz prawa do swoich danych</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Jeśli masz konto użytkownika albo dodałeś komentarze w witrynie, możesz zażądać dostarczenia pliku z wyeksportowanym kompletem twoich danych osobistych będących w naszym posiadaniu, w tym całość tych dostarczonych przez ciebie. Możesz również zażądać usunięcia przez nas całości twoich danych osobistych w naszym posiadaniu. Nie dotyczy to żadnych danych które jesteśmy zobligowani zachować ze względów administracyjnych, prawnych albo bezpieczeństwa.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Gdzie wysłamy twoje dane</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Komentarze gości mogą być sprawdzane za pomocą automatycznej usługi wykrywania spamu.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><!-- wp:paragraph -->
+<p>Ostatnia aktualizacja: 14 listopada 2026 roku.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>69</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-12 22:42:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-12 22:42:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-12 22:42:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-12 22:42:50]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-14 22:37:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-14 22:37:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[polityka-prywatnosci]]></wp:post_name>
@@ -1103,7 +1097,11 @@ This email is a receipt for your contact form submission on our website ([_site_
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
