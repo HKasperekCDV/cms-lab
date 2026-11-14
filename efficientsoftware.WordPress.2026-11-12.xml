@@ -459,7 +459,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 <!-- /wp:group -->
 
 <!-- wp:heading {"level":1,"align":"wide","className":"is-style-default","style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast"} -->
-<h1 class="wp-block-heading has-text-align-center alignwide is-style-default has-contrast-color has-text-color has-link-color">Od idei do działającej aplikacji</h1>
+<h1 class="wp-block-heading has-text-align-center alignwide is-style-default has-contrast-color has-text-color has-link-color">Od idei do działającej aplikacji webowej</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"className":"is-style-text-subtitle","style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast"} -->
