@@ -152,7 +152,7 @@
 [acceptance zgoda-rodo] Zapoznałem/-am się z
 <a href="/polityka-prywatnosci/">polityką prywatności</a>. [/acceptance]
 <!-- TODO: zamiast CAPTCHA-łamigłówki rozważ np. pole-pułapkę (WCAG 3.3.8) -->
-[honeypot sprawdzenie nomessage:true timecheck_enabled:true]
+[honeypot sprawdzenie timecheck_enabled:true]
 [submit class:wp-element-button "Wyślij wiadomość"]
 1
 [_site_title] "[your-subject]"
@@ -233,7 +233,7 @@ Proszę podać numer telefonu.]]></content:encoded>
 [acceptance zgoda-rodo] Zapoznałem/-am się z
 <a href="/polityka-prywatnosci/">polityką prywatności</a>. [/acceptance]
 <!-- TODO: zamiast CAPTCHA-łamigłówki rozważ np. pole-pułapkę (WCAG 3.3.8) -->
-[honeypot sprawdzenie nomessage:true timecheck_enabled:true]
+[honeypot sprawdzenie timecheck_enabled:true]
 [submit class:wp-element-button "Wyślij wiadomość"]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
