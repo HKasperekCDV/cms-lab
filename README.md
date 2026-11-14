@@ -61,3 +61,15 @@ można jednym kliknięciem korzystając z linka podanego wyżej dla wersji z Dem
 po uruchomieniu codespaces wystarczy wpisac **docker compose up -d** w terminalu by uruchomić, przygotować WordPressa, zrobić import w:
 
 Narzędzia -> import -> Wordpress i wczytać plik **efficientsoftware.WordPress.2026-11-12.xml** dostępny w repozytorium
+
+## Raporty Lighthouse
+
+### Strona główna / homepage
+[Test wykonany na desktop](https://hkasperekcdv.github.io/cms-lab/homepage-destop.html)
+
+[Test wykonany na mobile](https://hkasperekcdv.github.io/cms-lab/homepage-mobile.html)
+
+### Kontakt
+[Test wykonany na desktop](https://hkasperekcdv.github.io/cms-lab/kontakt-desktop.html)
+
+[Test wykonany na mobile](https://hkasperekcdv.github.io/cms-lab/kontakt-mobile.html)
