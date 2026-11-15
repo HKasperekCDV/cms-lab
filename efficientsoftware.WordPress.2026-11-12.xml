@@ -1181,7 +1181,29 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/?page_id=78</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"categories":["call-to-action","banner","services"],"patternName":"twentytwentyfive/pricing-3-col","name":"Cennik, 3 kolumny"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"categories":[],"patternName":"core/block/101","name":"Hero z CTA"},"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:cover {"alt":"Zdjęcie przedstawiające pole pełne kwiatów, błękitne niebo i drzewo.","dimRatio":10,"isUserOverlayColor":false,"focalPoint":{"x":0.57,"y":0.51},"minHeight":60,"minHeightUnit":"vh","isDark":false,"metadata":{"categories":["twentytwentyfive_page","featured"],"patternName":"twentytwentyfive/page-coming-soon","name":"Wkrótce"},"align":"wide","style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-1"}},"heading":{"color":{"text":"var:preset|color|accent-1"}}},"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50","top":"110px","bottom":"110px"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|40"},"color":{"duotone":["color-mix(in srgb, currentColor 20%, transparent)","#111111"]}},"textColor":"accent-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignwide is-light has-accent-1-color has-text-color has-link-color" style="margin-top:0;margin-bottom:0;padding-top:110px;padding-right:var(--wp--preset--spacing--50);padding-bottom:110px;padding-left:var(--wp--preset--spacing--50);min-height:60vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-10 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"level":1,"align":"wide","className":"is-style-default","style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast"} -->
+<h1 class="wp-block-heading has-text-align-center alignwide is-style-default has-contrast-color has-text-color has-link-color">Od idei do działającej aplikacji webowej</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"is-style-text-subtitle","style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast"} -->
+<p class="has-text-align-center is-style-text-subtitle has-contrast-color has-text-color has-link-color">Projektujemy i budujemy aplikacje webowe i strony internetowe dla startupów i małych firm</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"contrast","textColor":"base","className":"is-style-fill","style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"borderColor":"accent-1"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-color has-contrast-background-color has-text-color has-background has-link-color has-border-color has-accent-1-border-color wp-element-button" href="/kontakt">Umów bezpłatną konsultację</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"categories":["call-to-action","banner","services"],"patternName":"twentytwentyfive/pricing-3-col","name":"Cennik, 3 kolumny"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide"><!-- wp:heading {"fontSize":"x-large"} -->
 <h2 class="wp-block-heading has-x-large-font-size">Co dla Ciebie możemy przygotować</h2>
@@ -1199,20 +1221,14 @@ This email is a receipt for your contact form submission on our website ([_site_
 <!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"top":"var:preset|spacing|70","bottom":"0"},"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|50"}}}} -->
 <div class="wp-block-columns alignwide" style="margin-top:var(--wp--preset--spacing--70);margin-bottom:0"><!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}},"border":{"radius":"10px","width":"1px"}},"borderColor":"accent-6","layout":{"type":"constrained","justifyContent":"center"}} -->
 <div class="wp-block-column has-border-color has-accent-6-border-color" style="border-width:1px;border-radius:10px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"0"},"margin":{"top":"0","bottom":"0"}}}} -->
-<div class="wp-block-columns is-not-stacked-on-mobile" style="margin-top:0;margin-bottom:0"><!-- wp:column {"width":"70%"} -->
-<div class="wp-block-column" style="flex-basis:70%"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"fontSize":"large"} -->
+<div class="wp-block-columns is-not-stacked-on-mobile" style="margin-top:0;margin-bottom:0"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"fontSize":"large"} -->
 <h3 class="wp-block-heading has-large-font-size" style="margin-bottom:var(--wp--preset--spacing--20)">Strony WordPress</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Szybkie i proste w obsłudze strony firmowe oparte na WordPress z ACF. Treści możesz zmieniać sam, bez pomocy programisty</p>
+<p class="has-small-font-size">Szybkie i proste w obsłudze strony firmowe oparte na WordPress z ACF. Treści możesz zmieniać sam, bez pomocy programisty<br><br><br></p>
 <!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"style":{"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"0"}}}} -->
-<div class="wp-block-column" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><!-- wp:heading {"level":3,"style":{"typography":{"textDecoration":"line-through","textAlign":"right"}}} -->
-<h3 class="wp-block-heading has-text-align-right" style="text-decoration:line-through"></h3>
-<!-- /wp:heading --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
@@ -1225,20 +1241,16 @@ This email is a receipt for your contact form submission on our website ([_site_
 
 <!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}},"border":{"radius":"10px","width":"1px"}},"borderColor":"accent-6","layout":{"type":"constrained","justifyContent":"center"}} -->
 <div class="wp-block-column has-border-color has-accent-6-border-color" style="border-width:1px;border-radius:10px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"0"},"margin":{"top":"0","bottom":"0"}}}} -->
-<div class="wp-block-columns is-not-stacked-on-mobile" style="margin-top:0;margin-bottom:0"><!-- wp:column {"width":"70%"} -->
-<div class="wp-block-column" style="flex-basis:70%"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"fontSize":"large"} -->
+<div class="wp-block-columns is-not-stacked-on-mobile" style="margin-top:0;margin-bottom:0"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:group {"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"fontSize":"large"} -->
 <h3 class="wp-block-heading has-large-font-size" style="margin-bottom:var(--wp--preset--spacing--20)">Aplikacje webowe Sanity + Next.js</h3>
-<!-- /wp:heading -->
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">.Wydajne aplikacje webowe i serwisy z Sanity CMS. Idealne, gdy liczy się szybkość działania i skalowalność</p>
+<p class="has-small-font-size">.Wydajne aplikacje webowe i serwisy z Sanity CMS. Idealne, gdy liczy się szybkość działania i skalowalność<br><br></p>
 <!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"style":{"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"0"}}}} -->
-<div class="wp-block-column" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><!-- wp:heading {"level":3,"style":{"typography":{"textAlign":"right"}}} -->
-<h3 class="wp-block-heading has-text-align-right"></h3>
-<!-- /wp:heading --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
@@ -1251,20 +1263,14 @@ This email is a receipt for your contact form submission on our website ([_site_
 
 <!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}},"border":{"radius":"10px","width":"1px"}},"borderColor":"accent-6","layout":{"type":"constrained","justifyContent":"center"}} -->
 <div class="wp-block-column has-border-color has-accent-6-border-color" style="border-width:1px;border-radius:10px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"0"},"margin":{"top":"0","bottom":"0"}}}} -->
-<div class="wp-block-columns is-not-stacked-on-mobile" style="margin-top:0;margin-bottom:0"><!-- wp:column {"width":"70%"} -->
-<div class="wp-block-column" style="flex-basis:70%"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"fontSize":"large"} -->
+<div class="wp-block-columns is-not-stacked-on-mobile" style="margin-top:0;margin-bottom:0"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"fontSize":"large"} -->
 <h3 class="wp-block-heading has-large-font-size" style="margin-bottom:var(--wp--preset--spacing--20)">Utrzymanie i rozwój</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Aktualizacje, kopie zapasowe, monitoring i nowe funkcjonalności</p>
+<p class="has-small-font-size">Aktualizacje, kopie zapasowe, monitoring i nowe funkcjonalności<br><br><br><br></p>
 <!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"style":{"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"0"}}}} -->
-<div class="wp-block-column" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><!-- wp:heading {"level":3,"style":{"typography":{"textAlign":"right"}}} -->
-<h3 class="wp-block-heading has-text-align-right"></h3>
-<!-- /wp:heading --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
@@ -1615,6 +1621,54 @@ This email is a receipt for your contact form submission on our website ([_site_
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+				</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Hero z CTA]]></title>
+		<link>https://wpsandbox.wordpress.net/scope:teyh-maqm-xnyt/hero-z-cta/</link>
+		<pubDate>Sun, 15 Nov 2026 14:34:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:teyh-maqm-xnyt/hero-z-cta/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:cover {"alt":"Zdjęcie przedstawiające pole pełne kwiatów, błękitne niebo i drzewo.","dimRatio":10,"isUserOverlayColor":false,"focalPoint":{"x":0.57,"y":0.51},"minHeight":60,"minHeightUnit":"vh","isDark":false,"metadata":{"categories":["twentytwentyfive_page","featured"],"patternName":"twentytwentyfive/page-coming-soon","name":"Wkrótce"},"align":"wide","style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-1"}},"heading":{"color":{"text":"var:preset|color|accent-1"}}},"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50","top":"110px","bottom":"110px"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|40"},"color":{"duotone":["color-mix(in srgb, currentColor 20%, transparent)","#111111"]}},"textColor":"accent-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignwide is-light has-accent-1-color has-text-color has-link-color" style="margin-top:0;margin-bottom:0;padding-top:110px;padding-right:var(--wp--preset--spacing--50);padding-bottom:110px;padding-left:var(--wp--preset--spacing--50);min-height:60vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-10 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"level":1,"align":"wide","className":"is-style-default","style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast"} -->
+<h1 class="wp-block-heading has-text-align-center alignwide is-style-default has-contrast-color has-text-color has-link-color">Od idei do działającej aplikacji webowej</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"is-style-text-subtitle","style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast"} -->
+<p class="has-text-align-center is-style-text-subtitle has-contrast-color has-text-color has-link-color">Projektujemy i budujemy aplikacje webowe i strony internetowe dla startupów i małych firm</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"contrast","textColor":"base","className":"is-style-fill","style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"borderColor":"accent-1"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-color has-contrast-background-color has-text-color has-background has-link-color has-border-color has-accent-1-border-color wp-element-button" href="/kontakt">Umów bezpłatną konsultację</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>101</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-15 14:34:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-15 14:34:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-15 14:34:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-15 14:34:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hero-z-cta]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_block]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_pattern_sync_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[unsynced]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
