@@ -38,6 +38,19 @@
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@localhost.com]]></wp:author_email><wp:author_display_name><![CDATA[Hubert Kasperek]]></wp:author_display_name><wp:author_first_name><![CDATA[Hubert]]></wp:author_first_name><wp:author_last_name><![CDATA[Kasperek]]></wp:author_last_name></wp:author>
 
 		<wp:category>
+		<wp:term_id>10</wp:term_id>
+		<wp:category_nicename><![CDATA[seo]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[seo]]></wp:cat_name>
+<wp:category_description><![CDATA[optymalizacja treści w wyszukiwarkach internetowych]]></wp:category_description>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>11</wp:term_id>
+		<wp:category_nicename><![CDATA[web-development]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[tworzenie stron internetowych]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
@@ -842,9 +855,9 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-12 22:33:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-12 22:33:32]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2026-11-15 14:15:04]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2026-11-15 14:15:04]]></wp:post_modified_gmt>
-		<wp:post_modified_gmt><![CDATA[2026-11-12 22:33:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jak-utworzyc-wydajna-strone]]></wp:post_name>
@@ -1561,8 +1574,8 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<wp:post_date_gmt><![CDATA[2026-11-15 14:15:38]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2026-11-15 14:16:14]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2026-11-15 14:16:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jak-utworzyc-nowoczesna-strone-www]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
