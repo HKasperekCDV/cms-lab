@@ -741,7 +741,11 @@ This email is a receipt for your contact form submission on our website ([_site_
 <div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
 <div class="wp-block-column" style="flex-basis:100%"><!-- wp:site-title {"level":2} /-->
 
-<!-- wp:site-tagline /--></div>
+<!-- wp:site-tagline /-->
+
+<!-- wp:paragraph -->
+<p>Efficient Software sp. z o.o.<br>ul. Xyz, 00-000 Abc<br>NIP 0000000000<br>email: <a href="mailto:kontakt@example.com">kontakt@example.com</a><br>Pon-pt 10:00-16:00</p>
+<!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":""} -->
@@ -1015,7 +1019,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><!-- wp:paragraph -->
-<p>Administratorem danych jest Efficient Software sp. z o.o., ul. xyz, 00-000 Abc, NIP 0000000000, kontakt w sprawie przetwarzania danych: kontakt@example.com</p>
+<p>Administratorem danych jest Efficient Software sp. z o.o., ul. xyz, 00-000 Abc, NIP 0000000000, kontakt w sprawie przetwarzania danych: <a href="mailto:kontakt@example.com">kontakt@example.com</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
