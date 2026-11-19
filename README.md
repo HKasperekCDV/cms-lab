@@ -79,3 +79,8 @@ Narzędzia -> import -> Wordpress i wczytać plik **efficientsoftware.WordPress.
 [Test wykonany na mobile](https://hkasperekcdv.github.io/cms-lab/kontakt-mobile.html)
 
 Accessibility ocenione na "100" w LightHouse, nie wymaga poprawek, uwagi dot SEO nie są problemem - noindex jest zamierzony jak nie chcemy by nasza strona była indeksowana przez wyszukiwarki, co w fazie developmentu strony i nie publikowania jej jest zamierzone
+
+## Użycie AI
+Claude - poprawienie docker-compose.yml, kasowanie domyślnych postów w cms, import wxr i setSiteOptions w blueprint.json
+
+Google Gemini (konto uczelniane) - grafiki w folderze `grafiki-ai/`, odpowiednio podpisane na stronie **Grafika wygenerowana przez sztuczną inteligencję**
