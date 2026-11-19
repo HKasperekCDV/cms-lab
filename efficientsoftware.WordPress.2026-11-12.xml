@@ -169,13 +169,13 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/?post_type=wpcf7_contact_form&#038;p=4</guid>
 		<description></description>
-		<content:encoded><![CDATA[<label> Imię i nazwisko (wymagane)</label>
+		<content:encoded><![CDATA[<label for="cf-name"> Imię i nazwisko (wymagane)</label>
 [text* your-name autocomplete:name]
 
-<label> E-mail (wymagany)</label>
+<label for="cf-email"> E-mail (wymagany)</label>
 [email* your-email autocomplete:email]
 
-<label> Wiadomość (wymagana)</label>
+<label for="cf-msg"> Wiadomość (wymagana)</label>
 [textarea* your-message]
 
 [acceptance zgoda-rodo] Zapoznałem/-am się z <a href="/polityka-prywatnosci/">polityką prywatności</a>. [/acceptance]
@@ -213,16 +213,16 @@ Reply-To: [_site_admin_email]
 1
 1
 Wiadomość wysłana, dziękujemy :)
-Napotkano error przy wysyłce wiadomości, spróbuj ponownie później
+Napotkano błąd przy wysyłce wiadomości, spróbuj ponownie później
 błąd walidacji, upewnij się, że dane są poprawne
-Napotkano error przy wysyłce wiadomości
+Napotkano błąd przy wysyłce wiadomości
 Musisz zaakceptować zgody, przed wysyłką formularza
 Wymagane pole
 Za dużo znaków
 Za mało znaków
 napotkano błąd przy wrzucaniu pliku
 Nie wspierany format pliku
-Za duzy plik
+Za duży plik
 błąd
 Wprowadź datę w formacie RRRR-MM-DD.
 Data wybrana w tym polu jest zbyt wczesna.
