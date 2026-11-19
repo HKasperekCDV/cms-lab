@@ -568,10 +568,6 @@ This email is a receipt for your contact form submission on our website ([_site_
 <hr class="wp-block-separator alignwide has-css-opacity is-style-default"/>
 <!-- /wp:separator -->
 
-<!-- wp:image {"width":"150px","height":"150px","sizeSlug":"large","linkDestination":"none","align":"center","className":"is-style-rounded"} -->
-<figure class="wp-block-image aligncenter size-large is-resized is-style-rounded"><img src="https://s.w.org/images/core/5.8/portrait.jpg" alt="Anna Wong, klientka, XYZCorp" style="width:150px;height:150px"/></figure>
-<!-- /wp:image -->
-
 <!-- wp:quote {"textAlign":"center","className":"is-style-large"} -->
 <blockquote class="wp-block-quote has-text-align-center is-style-large"><!-- wp:paragraph -->
 <p>"Po redesignie strony konwersja wzrosła o 50% w ciągu trzech miesięcy, zespół Efficient Software świetnie zrozumiał nasz biznes, a strona w końcu wygląda nowocześnie i działa wydajnie na każdym urządzeniu"</p>
