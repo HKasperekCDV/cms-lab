@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.1.5" created="2026-11-19 21:08" -->
+	<!-- generator="WordPress/7.1.5" created="2026-11-19 21:30" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>Efficient Software</title>
-	<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr</link>
+	<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre</link>
 	<description>Od idei do działającej aplikacji webowej</description>
-	<pubDate>Thu, 19 Nov 2026 21:08:20 +0000</pubDate>
+	<pubDate>Thu, 19 Nov 2026 21:30:09 +0000</pubDate>
 	<language>pl-PL</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr</wp:base_site_url>
-	<wp:base_blog_url>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr</wp:base_blog_url>
+	<wp:base_site_url>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre</wp:base_site_url>
+	<wp:base_blog_url>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@localhost.com]]></wp:author_email><wp:author_display_name><![CDATA[Hubert Kasperek]]></wp:author_display_name><wp:author_first_name><![CDATA[Hubert]]></wp:author_first_name><wp:author_last_name><![CDATA[Kasperek]]></wp:author_last_name></wp:author>
 
@@ -164,19 +164,19 @@
 
 		<item>
 		<title><![CDATA[Contact form 1]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/?post_type=wpcf7_contact_form&#038;p=5</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/?post_type=wpcf7_contact_form&#038;p=5</link>
 		<pubDate>Thu, 12 Nov 2026 21:20:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/?post_type=wpcf7_contact_form&#038;p=4</guid>
 		<description></description>
 		<content:encoded><![CDATA[<label for="cf-name"> Imię i nazwisko (wymagane)</label>
-[text* your-name autocomplete:name]
+[text* your-name id:cf-name autocomplete:name]
 
 <label for="cf-email"> E-mail (wymagany)</label>
-[email* your-email autocomplete:email]
+[email* your-email id:cf-email autocomplete:email]
 
 <label for="cf-msg"> Wiadomość (wymagana)</label>
-[textarea* your-message]
+[textarea* your-message id:cf-msg]
 
 [acceptance zgoda-rodo] Zapoznałem/-am się z <a href="/polityka-prywatnosci/">polityką prywatności</a>. [/acceptance]
 
@@ -238,8 +238,8 @@ Proszę podać numer telefonu.]]></content:encoded>
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-12 21:20:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-12 21:20:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-19 20:48:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-19 20:48:29]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-19 21:27:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-19 21:27:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-1-2]]></wp:post_name>
@@ -251,14 +251,14 @@ Proszę podać numer telefonu.]]></content:encoded>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<label> Imię i nazwisko (wymagane)</label>
-[text* your-name autocomplete:name]
+		<wp:meta_value><![CDATA[<label for="cf-name"> Imię i nazwisko (wymagane)</label>
+[text* your-name id:cf-name autocomplete:name]
 
-<label> E-mail (wymagany)</label>
-[email* your-email autocomplete:email]
+<label for="cf-email"> E-mail (wymagany)</label>
+[email* your-email id:cf-email autocomplete:email]
 
-<label> Wiadomość (wymagana)</label>
-[textarea* your-message]
+<label for="cf-msg"> Wiadomość (wymagana)</label>
+[textarea* your-message id:cf-msg]
 
 [acceptance zgoda-rodo] Zapoznałem/-am się z <a href="/polityka-prywatnosci/">polityką prywatności</a>. [/acceptance]
 
@@ -287,7 +287,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:36:"Wiadomość wysłana, dziękujemy :)";s:12:"mail_sent_ng";s:70:"Napotkano error przy wysyłce wiadomości, spróbuj ponownie później";s:16:"validation_error";s:53:"błąd walidacji, upewnij się, że dane są poprawne";s:4:"spam";s:41:"Napotkano error przy wysyłce wiadomości";s:12:"accept_terms";s:54:"Musisz zaakceptować zgody, przed wysyłką formularza";s:16:"invalid_required";s:13:"Wymagane pole";s:16:"invalid_too_long";s:16:"Za dużo znaków";s:17:"invalid_too_short";s:16:"Za mało znaków";s:13:"upload_failed";s:37:"napotkano błąd przy wrzucaniu pliku";s:24:"upload_file_type_invalid";s:26:"Nie wspierany format pliku";s:21:"upload_file_too_large";s:12:"Za duzy plik";s:23:"upload_failed_php_error";s:6:"błąd";s:12:"invalid_date";s:38:"Wprowadź datę w formacie RRRR-MM-DD.";s:14:"date_too_early";s:42:"Data wybrana w tym polu jest zbyt wczesna.";s:13:"date_too_late";s:42:"Data wybrana w tym polu jest zbyt późna.";s:14:"invalid_number";s:18:"Wprowadź liczbę.";s:16:"number_too_small";s:16:"Za mała liczba.";s:16:"number_too_large";s:16:"Za duża liczba.";s:23:"quiz_answer_not_correct";s:40:"Odpowiedź w quizie jest nieprawidłowa.";s:13:"invalid_email";s:29:"Proszę wpisać adres e-mail.";s:11:"invalid_url";s:30:"Proszę wprowadzić adres URL.";s:11:"invalid_tel";s:30:"Proszę podać numer telefonu.";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:36:"Wiadomość wysłana, dziękujemy :)";s:12:"mail_sent_ng";s:71:"Napotkano błąd przy wysyłce wiadomości, spróbuj ponownie później";s:16:"validation_error";s:53:"błąd walidacji, upewnij się, że dane są poprawne";s:4:"spam";s:42:"Napotkano błąd przy wysyłce wiadomości";s:12:"accept_terms";s:54:"Musisz zaakceptować zgody, przed wysyłką formularza";s:16:"invalid_required";s:13:"Wymagane pole";s:16:"invalid_too_long";s:16:"Za dużo znaków";s:17:"invalid_too_short";s:16:"Za mało znaków";s:13:"upload_failed";s:37:"napotkano błąd przy wrzucaniu pliku";s:24:"upload_file_type_invalid";s:26:"Nie wspierany format pliku";s:21:"upload_file_too_large";s:13:"Za duży plik";s:23:"upload_failed_php_error";s:6:"błąd";s:12:"invalid_date";s:38:"Wprowadź datę w formacie RRRR-MM-DD.";s:14:"date_too_early";s:42:"Data wybrana w tym polu jest zbyt wczesna.";s:13:"date_too_late";s:42:"Data wybrana w tym polu jest zbyt późna.";s:14:"invalid_number";s:18:"Wprowadź liczbę.";s:16:"number_too_small";s:16:"Za mała liczba.";s:16:"number_too_large";s:16:"Za duża liczba.";s:23:"quiz_answer_not_correct";s:40:"Odpowiedź w quizie jest nieprawidłowa.";s:13:"invalid_email";s:29:"Proszę wpisać adres e-mail.";s:11:"invalid_url";s:30:"Proszę wprowadzić adres URL.";s:11:"invalid_tel";s:30:"Proszę podać numer telefonu.";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
@@ -304,7 +304,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 							</item>
 					<item>
 		<title><![CDATA[Nawigacja]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/navigation/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/navigation/</link>
 		<pubDate>Thu, 12 Nov 2026 21:23:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/navigation/</guid>
@@ -328,7 +328,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 														</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/wp-global-styles-twentytwentyfive/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/wp-global-styles-twentytwentyfive/</link>
 		<pubDate>Thu, 12 Nov 2026 21:23:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/wp-global-styles-twentytwentyfive/</guid>
@@ -353,7 +353,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 						</item>
 					<item>
 		<title><![CDATA[O nas]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/o-nas/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/o-nas/</link>
 		<pubDate>Thu, 12 Nov 2026 21:31:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/?page_id=8</guid>
@@ -402,7 +402,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"large","style":{"spacing":{"margin":{"bottom":"24px"}}}} -->
-<figure class="wp-block-image size-large" style="margin-bottom:24px"><img src="https://raw.githubusercontent.com/HKasperekCDV/cms-lab/refs/heads/main/grafiki-ai/Gemini_Generated_Image_Jan_Kowalski_Awatar.jpeg" alt="Obrazek usługi" style="aspect-ratio:4/3;object-fit:cover"/><figcaption class="wp-element-caption">Grafika wygenerowana przez sztuczną inteligencję - osoba fikcyjna</figcaption></figure>
+<figure class="wp-block-image size-large" style="margin-bottom:24px"><img src="https://raw.githubusercontent.com/HKasperekCDV/cms-lab/refs/heads/main/grafiki-ai/Gemini_Generated_Image_Jan_Kowalski_Awatar.jpeg" alt="Ilustracja, Jan Kowalski, Web Developer" style="aspect-ratio:4/3;object-fit:cover"/><figcaption class="wp-element-caption">Grafika wygenerowana przez sztuczną inteligencję - osoba fikcyjna</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -416,7 +416,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"large","style":{"spacing":{"margin":{"bottom":"24px"}}}} -->
-<figure class="wp-block-image size-large" style="margin-bottom:24px"><img src="https://raw.githubusercontent.com/HKasperekCDV/cms-lab/refs/heads/main/grafiki-ai/Gemini_Generated_Image_Marek_Nowak_Awatar.jpeg" alt="Obrazek usługi" style="aspect-ratio:4/3;object-fit:cover"/><figcaption class="wp-element-caption">Grafika wygenerowana przez sztuczną inteligencję - osoba fikcyjna</figcaption></figure>
+<figure class="wp-block-image size-large" style="margin-bottom:24px"><img src="https://raw.githubusercontent.com/HKasperekCDV/cms-lab/refs/heads/main/grafiki-ai/Gemini_Generated_Image_Marek_Nowak_Awatar.jpeg" alt="Ilustracja, Marek Nowak, UI/UX Designer" style="aspect-ratio:4/3;object-fit:cover"/><figcaption class="wp-element-caption">Grafika wygenerowana przez sztuczną inteligencję - osoba fikcyjna</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -430,7 +430,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"large","style":{"spacing":{"margin":{"bottom":"24px"}}}} -->
-<figure class="wp-block-image size-large" style="margin-bottom:24px"><img src="https://raw.githubusercontent.com/HKasperekCDV/cms-lab/refs/heads/main/grafiki-ai/Gemini_Generated_Image_Anna_Kowal_Awatar.jpeg" alt="Obrazek usługi" style="aspect-ratio:4/3;object-fit:cover"/><figcaption class="wp-element-caption">Grafika wygenerowana przez sztuczną inteligencję - osoba fikcyjna</figcaption></figure>
+<figure class="wp-block-image size-large" style="margin-bottom:24px"><img src="https://raw.githubusercontent.com/HKasperekCDV/cms-lab/refs/heads/main/grafiki-ai/Gemini_Generated_Image_Anna_Kowal_Awatar.jpeg" alt="Ilustracja, Anna Kowal, QA Engineer" style="aspect-ratio:4/3;object-fit:cover"/><figcaption class="wp-element-caption">Grafika wygenerowana przez sztuczną inteligencję - osoba fikcyjna</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -447,8 +447,8 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-12 21:31:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-12 21:31:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-19 21:07:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-19 21:07:21]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-19 21:29:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-19 21:29:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[o-nas]]></wp:post_name>
@@ -485,7 +485,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 							</item>
 					<item>
 		<title><![CDATA[Strona główna]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/</link>
 		<pubDate>Thu, 12 Nov 2026 21:44:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/?page_id=12</guid>
@@ -609,8 +609,8 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-12 21:44:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-12 21:44:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-19 20:36:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-19 20:36:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-12 21:44:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-12 21:44:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[strona-glowna]]></wp:post_name>
@@ -647,7 +647,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 							</item>
 					<item>
 		<title><![CDATA[page-strona-glowna]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/page-strona-glowna/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/page-strona-glowna/</link>
 		<pubDate>Thu, 12 Nov 2026 21:46:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/page-strona-glowna/</guid>
@@ -688,16 +688,16 @@ This email is a receipt for your contact form submission on our website ([_site_
 							</item>
 					<item>
 		<title><![CDATA[Menu]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/menu/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/menu/</link>
 		<pubDate>Thu, 12 Nov 2026 22:06:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/?p=35</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"O nas","type":"page","id":8,"url":"https:\/\/wpsandbox.wordpress.net\/scope:wcyv-geim-gbvr\/o-nas\/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core\/post-data","args":{"field":"link"}}}}} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"O nas","type":"page","id":8,"url":"https:\/\/wpsandbox.wordpress.net\/scope:yrbm-wfxd-qbre\/o-nas\/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core\/post-data","args":{"field":"link"}}}}} /-->
 
-<!-- wp:navigation-link {"label":"Us\u0142ugi","type":"page","id":78,"url":"https:\/\/wpsandbox.wordpress.net\/scope:wcyv-geim-gbvr\/uslugi\/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core\/post-data","args":{"field":"link"}}}}} /-->
+<!-- wp:navigation-link {"label":"Us\u0142ugi","type":"page","id":78,"url":"https:\/\/wpsandbox.wordpress.net\/scope:yrbm-wfxd-qbre\/uslugi\/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core\/post-data","args":{"field":"link"}}}}} /-->
 
-<!-- wp:navigation-link {"label":"Blog","type":"page","id":75,"url":"https:\/\/wpsandbox.wordpress.net\/scope:wcyv-geim-gbvr\/blog\/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core\/post-data","args":{"field":"link"}}}}} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"Blog","type":"page","id":75,"url":"https:\/\/wpsandbox.wordpress.net\/scope:yrbm-wfxd-qbre\/blog\/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core\/post-data","args":{"field":"link"}}}}} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-12 22:06:59]]></wp:post_date>
@@ -716,16 +716,16 @@ This email is a receipt for your contact form submission on our website ([_site_
 														</item>
 					<item>
 		<title><![CDATA[Menu 2]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/menu-2/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/menu-2/</link>
 		<pubDate>Thu, 12 Nov 2026 22:06:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/?p=36</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Kariera","type":"page","id":94,"url":"https:\/\/wpsandbox.wordpress.net\/scope:wcyv-geim-gbvr\/kariera\/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core\/post-data","args":{"field":"link"}}}}} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Kariera","type":"page","id":94,"url":"https:\/\/wpsandbox.wordpress.net\/scope:yrbm-wfxd-qbre\/kariera\/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core\/post-data","args":{"field":"link"}}}}} /-->
 
-<!-- wp:navigation-link {"label":"Kontakt","type":"page","id":62,"url":"https:\/\/wpsandbox.wordpress.net\/scope:wcyv-geim-gbvr\/kontakt\/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core\/post-data","args":{"field":"link"}}}}} /-->
+<!-- wp:navigation-link {"label":"Kontakt","type":"page","id":62,"url":"https:\/\/wpsandbox.wordpress.net\/scope:yrbm-wfxd-qbre\/kontakt\/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core\/post-data","args":{"field":"link"}}}}} /-->
 
-<!-- wp:navigation-link {"label":"Polityka prywatno\u015bci","type":"page","id":69,"url":"https:\/\/wpsandbox.wordpress.net\/scope:wcyv-geim-gbvr\/polityka-prywatnosci\/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core\/post-data","args":{"field":"link"}}}}} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"Polityka prywatno\u015bci","type":"page","id":69,"url":"https:\/\/wpsandbox.wordpress.net\/scope:yrbm-wfxd-qbre\/polityka-prywatnosci\/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core\/post-data","args":{"field":"link"}}}}} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-12 22:06:59]]></wp:post_date>
@@ -744,7 +744,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 														</item>
 					<item>
 		<title><![CDATA[Stopka]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/footer/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/footer/</link>
 		<pubDate>Thu, 12 Nov 2026 22:06:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/footer/</guid>
@@ -819,7 +819,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 							</item>
 					<item>
 		<title><![CDATA[Kontakt]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/kontakt/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/kontakt/</link>
 		<pubDate>Thu, 12 Nov 2026 22:28:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/?page_id=62</guid>
@@ -865,7 +865,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 							</item>
 					<item>
 		<title><![CDATA[Jak utworzyć wydajną stronę]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/jak-utworzyc-wydajna-strone/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/jak-utworzyc-wydajna-strone/</link>
 		<pubDate>Thu, 12 Nov 2026 22:33:32 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/?p=65</guid>
@@ -893,6 +893,14 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<category domain="post_tag" nicename="web-development"><![CDATA[web development]]></category>
 		<category domain="post_tag" nicename="wydajna-strona"><![CDATA[wydajna strona]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -947,7 +955,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 							</item>
 					<item>
 		<title><![CDATA[Jak zadbać o SEO strony]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/jak-zadbac-o-seo-strony/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/jak-zadbac-o-seo-strony/</link>
 		<pubDate>Thu, 12 Nov 2026 22:33:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/?p=67</guid>
@@ -973,6 +981,14 @@ This email is a receipt for your contact form submission on our website ([_site_
 										<category domain="category" nicename="seo"><![CDATA[seo]]></category>
 		<category domain="post_tag" nicename="seo"><![CDATA[SEO]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -1031,7 +1047,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 							</item>
 					<item>
 		<title><![CDATA[Polityka prywatności]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/polityka-prywatnosci/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/polityka-prywatnosci/</link>
 		<pubDate>Thu, 12 Nov 2026 22:42:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/?page_id=69</guid>
@@ -1169,7 +1185,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/blog/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/blog/</link>
 		<pubDate>Thu, 12 Nov 2026 22:49:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/?page_id=75</guid>
@@ -1213,7 +1229,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 							</item>
 					<item>
 		<title><![CDATA[Usługi]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/uslugi/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/uslugi/</link>
 		<pubDate>Thu, 12 Nov 2026 22:54:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/?page_id=78</guid>
@@ -1286,7 +1302,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 <!-- /wp:group -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">.Wydajne aplikacje webowe i serwisy z Sanity CMS. Idealne, gdy liczy się szybkość działania i skalowalność<br><br></p>
+<p class="has-small-font-size">Wydajne aplikacje webowe i serwisy z Sanity CMS. Idealne, gdy liczy się szybkość działania i skalowalność<br><br></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -1373,8 +1389,8 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-12 22:54:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-12 22:54:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-19 20:30:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-19 20:30:06]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-19 21:30:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-19 21:30:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[uslugi]]></wp:post_name>
@@ -1411,7 +1427,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 							</item>
 					<item>
 		<title><![CDATA[Kariera]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/kariera/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/kariera/</link>
 		<pubDate>Thu, 12 Nov 2026 23:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:imov-xcvp-fqav/?page_id=94</guid>
@@ -1525,8 +1541,8 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<wp:post_id>94</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-12 23:08:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-12 23:08:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-19 20:43:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-19 20:43:58]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-12 23:08:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-12 23:08:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[kariera]]></wp:post_name>
@@ -1563,7 +1579,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 							</item>
 					<item>
 		<title><![CDATA[Nagłówek]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/header/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/header/</link>
 		<pubDate>Sat, 14 Nov 2026 19:49:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:uwof-qcog-fpin/header/</guid>
@@ -1583,8 +1599,8 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<wp:post_id>96</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-14 19:49:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-14 19:49:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-19 20:46:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-19 20:46:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-14 19:49:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-14 19:49:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
@@ -1603,7 +1619,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 							</item>
 					<item>
 		<title><![CDATA[Jak utworzyć nowoczesną stronę www]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/jak-utworzyc-nowoczesna-strone-www/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/jak-utworzyc-nowoczesna-strone-www/</link>
 		<pubDate>Sun, 15 Nov 2026 14:15:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:bedc-gkbn-cuji/?p=99</guid>
@@ -1628,6 +1644,14 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="web-development"><![CDATA[tworzenie stron internetowych]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -1670,7 +1694,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 							</item>
 					<item>
 		<title><![CDATA[Hero z CTA]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/hero-z-cta/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/hero-z-cta/</link>
 		<pubDate>Sun, 15 Nov 2026 14:34:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:teyh-maqm-xnyt/hero-z-cta/</guid>
@@ -1718,20 +1742,20 @@ This email is a receipt for your contact form submission on our website ([_site_
 							</item>
 					<item>
 		<title><![CDATA[Menu 3]]></title>
-		<link>https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/menu-3/</link>
+		<link>https://wpsandbox.wordpress.net/scope:yrbm-wfxd-qbre/menu-3/</link>
 		<pubDate>Thu, 19 Nov 2026 20:46:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/?p=116</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"O nas","type":"page","id":8,"url":"https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/o-nas/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"O nas","type":"page","id":8,"url":"https:\/\/wpsandbox.wordpress.net\/scope:yrbm-wfxd-qbre\/o-nas\/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core\/post-data","args":{"field":"link"}}}}} /-->
 
-<!-- wp:navigation-link {"label":"Usługi","type":"page","id":78,"url":"https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/uslugi/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+<!-- wp:navigation-link {"label":"Us\u0142ugi","type":"page","id":78,"url":"https:\/\/wpsandbox.wordpress.net\/scope:yrbm-wfxd-qbre\/uslugi\/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core\/post-data","args":{"field":"link"}}}}} /-->
 
-<!-- wp:navigation-link {"label":"Kariera","type":"page","id":94,"url":"https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/kariera/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+<!-- wp:navigation-link {"label":"Kariera","type":"page","id":94,"url":"https:\/\/wpsandbox.wordpress.net\/scope:yrbm-wfxd-qbre\/kariera\/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core\/post-data","args":{"field":"link"}}}}} /-->
 
-<!-- wp:navigation-link {"label":"Blog","type":"page","id":75,"url":"https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/blog/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+<!-- wp:navigation-link {"label":"Blog","type":"page","id":75,"url":"https:\/\/wpsandbox.wordpress.net\/scope:yrbm-wfxd-qbre\/blog\/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core\/post-data","args":{"field":"link"}}}}} /-->
 
-<!-- wp:navigation-link {"label":"Kontakt","type":"page","id":62,"url":"https://wpsandbox.wordpress.net/scope:wcyv-geim-gbvr/kontakt/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"Kontakt","type":"page","id":62,"url":"https:\/\/wpsandbox.wordpress.net\/scope:yrbm-wfxd-qbre\/kontakt\/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core\/post-data","args":{"field":"link"}}}}} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-19 20:46:36]]></wp:post_date>
