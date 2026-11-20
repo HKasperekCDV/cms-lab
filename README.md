@@ -134,12 +134,23 @@ WordPress jest najpopularniejszym CMS'em (zgodnie z W3Tech - stan na październi
 WordPressa, w porównaniu np do Wix czy Sanity - WordPress jest self-hosted, czyli nie mamy vendor lock, możemy sami go hostować gdzie chcemy i mamy kontrolę nad kodem i danymi
 
 
-
 ## Uruchomienie projektu
-można jednym kliknięciem korzystając z linka podanego wyżej dla wersji z Demo Playground, natomiast dla wersji w codespaces, 
-po uruchomieniu codespaces wystarczy wpisac **docker compose up -d** w terminalu by uruchomić, przygotować WordPressa, zrobić import w:
+### Wersja Playground
+można uruchomić [jednym kliknięciem](ttps://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/HKasperekCDV/cms-lab/refs/heads/main/blueprint.json)
 
-Narzędzia -> import -> Wordpress i wczytać plik **efficientsoftware.WordPress.2026-11-12.xml** dostępny w repozytorium
+## Wersja w Github Codespaces
+1. uruchom codespace, uzyskasz wtedy okno takie jak tutaj:
+![screenshot1](https://raw.githubusercontent.com/HKasperekCDV/cms-lab/refs/heads/main/screenshots/screenshot1.png)
+
+2. Wpisz w terminalu `docker compose up -d`
+3. Otwórz przekierowany port 8080 w nowej karcie, jak zobaczysz "Error establishing a database connection", poczekaj kilka minut i odśwież kartę
+4. Zacznij instalację Wordpressa, wybierz język "Polski" i resztę konfiguracji początkowej, nazwa witryny to "Efficient Software"
+5. Zaloguj sie i przejdź do **Ustawienia->Ogólne** i ustaw slogan: "Od idei do działającej aplikacji webowej"
+6. Przejdź do **Ustawienia->Bezpośrednie odnośniki** i wybierz "Nazwa wpisu"
+7. Przejdź do **Wtyczki->Dodaj wtyczkę**, zainstaluj i włącz, **Contact Form 7**, **Classic Honeypot for CF7**, **Yoast Seo** i **CookieYes**, po instalacji i aktywacji **CookieYes** przejdź w zakładkę **CookieYes->Języki->Lista języków->English->kliknij trzykropki (...)->Zmień język domyślny->Wybierz język domyślny->Wybierz Polish (pl) i kliknij "zmień"**
+8. Usuń domyślne treści, jak Strony typu "Przykładowa strona" lub Wpisy "Witaj, świecie!"
+9. Przejdź do **Narzędzia->Import->Wordpress**, kliknij "Zainstaluj", potem "Uruchom importer", wybierz plik .xml z tego repozytorium i go zaimportuj
+10. Przejdź do **Ustawienia->Czytanie** zmień w "Strona główna wyświetla" z "Twoje najnowsze wpisy" na "statyczną stronę (wybierz poniżej)", w "strona główna" wybierz "Strona główna", a w "Strona z wpisami" wybierz "Blog"
 
 ## Raport Dostępności (PDF)
 
