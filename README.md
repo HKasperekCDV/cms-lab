@@ -41,7 +41,7 @@ Grupa docelowa:
    - CTA: zgłoszenie się na ofertę junior web developera poprzez formularz kontaktowy, przechodząc zgodnie z user flow
 
 ## Decyzje projektowe
-- motyw Twenty Twenty-Five, wygląd zedytowany s Stylach globalnych
+- motyw Twenty Twenty-Five, wygląd zedytowany w Stylach globalnych
 - kolory: głównie jasne tło (białye lub jasnoszare) z ciemnym tekstem, w CTA odwrotnie - ciemne tło a jasny tekst
 - navbar ułożony zgodnie z mapą strony i ściezkami person podanych wyzej
 - sekcja Hero z strony głównej zapisana jako wzorzec "Hero z CTA" i użyta ponownie na stronie Usługi
