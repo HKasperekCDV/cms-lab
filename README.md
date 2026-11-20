@@ -53,6 +53,10 @@ Grupa docelowa:
 - Kontakt - formularz Contact Form 7
 - Polityka prywatności
 
+## Wireframe strony głównej
+
+![wireframe strony głównej](https://raw.githubusercontent.com/HKasperekCDV/cms-lab/refs/heads/main/wireframe/wireframe-strona-glowna.png)
+
 ## Zrzuty ekranu
 
 ### Strona główna
