@@ -136,7 +136,13 @@ po uruchomieniu codespaces wystarczy wpisac **docker compose up -d** w terminalu
 
 Narzędzia -> import -> Wordpress i wczytać plik **efficientsoftware.WordPress.2026-11-12.xml** dostępny w repozytorium
 
-## Raporty Lighthouse
+## Raport Dostępności (PDF)
+
+Pełny raport dostępności - WAVE przed i po, lista poprawek zgodnie z WCAG, kontrast
+
+[raport w formacie pliku PDF](https://hkasperekcdv.github.io/cms-lab/raport_dostepnosci_mp1_Hubert_Kasperek.pdf)
+
+## Pełne raporty Lighthouse
 
 ### Strona główna / homepage
 [Test wykonany na desktop](https://hkasperekcdv.github.io/cms-lab/homepage-destop.html)
