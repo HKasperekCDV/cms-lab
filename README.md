@@ -57,6 +57,8 @@ Grupa docelowa:
 
 ![wireframe strony głównej](https://raw.githubusercontent.com/HKasperekCDV/cms-lab/refs/heads/main/wireframe/wireframe-strona-glowna.png)
 
+Wykonane przy użyciu [Excalidraw Whiteboard](https://excalidraw.com/)
+
 ## Zrzuty ekranu
 
 ### Strona główna
