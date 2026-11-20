@@ -155,6 +155,8 @@ Accessibility ocenione na "100" w LightHouse
 ## Użycie AI
 Claude - poprawienie docker-compose.yml, kasowanie domyślnych postów w cms, import wxr i setSiteOptions w blueprint.json
 
+Google Przegląd od AI - wyszukiwanie linków do licencji
+
 Google Gemini (konto uczelniane) - grafiki w folderze `grafiki-ai/`, odpowiednio podpisane na stronie **Grafika wygenerowana przez sztuczną inteligencję**
 
 ## Źródła i licencje
