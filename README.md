@@ -123,8 +123,10 @@ Yoast SEO - optymalizacja SEO (dla lepszego pozycjonowania w np Google) pod wysz
 CookieYes - baner cookies 
 
 ## Uzasadnienie wyboru CMS
-WordPress jest najpopularniejszym CMS'em, ma ogromny ekosystem wtyczek, dzięki jego popularności łatwo jest znaleźć developera jaki zna
+WordPress jest najpopularniejszym CMS'em (zgodnie z W3Tech - stan na październik 2026, WordPress działa na 40,2% wszystkich stron i 58,7% udziału w rynku CMS, gdzie np. Wix ma 6,1%), ma ogromny ekosystem wtyczek, dzięki jego popularności łatwo jest znaleźć developera jaki zna
 WordPressa, w porównaniu np do Wix czy Sanity - WordPress jest self-hosted, czyli nie mamy vendor lock, możemy sami go hostować gdzie chcemy i mamy kontrolę nad kodem i danymi
+
+
 
 ## Uruchomienie projektu
 można jednym kliknięciem korzystając z linka podanego wyżej dla wersji z Demo Playground, natomiast dla wersji w codespaces, 
