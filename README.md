@@ -148,7 +148,7 @@ Narzędzia -> import -> Wordpress i wczytać plik **efficientsoftware.WordPress.
 
 [Test wykonany na mobile](https://hkasperekcdv.github.io/cms-lab/kontakt-mobile.html)
 
-Accessibility ocenione na "100" w LightHouse, nie wymaga poprawek
+Accessibility ocenione na "100" w LightHouse
 
 ## Użycie AI
 Claude - poprawienie docker-compose.yml, kasowanie domyślnych postów w cms, import wxr i setSiteOptions w blueprint.json
