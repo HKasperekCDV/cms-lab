@@ -2,10 +2,6 @@
 
 ![screenshot1](https://raw.githubusercontent.com/HKasperekCDV/cms-lab/refs/heads/main/screenshots/screenshot1.png)
 
-update po 14.11.2026
-![screenshot3](https://raw.githubusercontent.com/HKasperekCDV/cms-lab/refs/heads/main/screenshots/screenshot3.png)
-
-update po 19.11.2026
 ![screenshot5](https://raw.githubusercontent.com/HKasperekCDV/cms-lab/refs/heads/main/screenshots/screenshot5.png)
 
 
