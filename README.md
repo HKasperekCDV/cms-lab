@@ -171,34 +171,34 @@ Google Gemini (konto uczelniane) - grafiki w folderze `grafiki-ai/`, odpowiednio
 ## Źródła i licencje
 
 ### Motyw i CMS
-Wordpress - [GPLv2 lub nowsza](https://wordpress.org/about/license/)
+Wordpress - autor: Wordpress.org i współtwórcy, licencja: [GPLv2 lub nowsza](https://wordpress.org/about/license/)
  
-Motyw Twenty Twenty-Five - GPLv2 lub nowsza
+Motyw Twenty Twenty-Five - autor: Wordpress.org i współtwórcy, GPLv2 lub nowsza
 
 ### Wtyczki
-Contact Form 7 - [GPLv2 lub nowsza](https://github.com/rocklobster-in/contact-form-7?tab=License-1-ov-file)
+Contact Form 7 - autor: Rock Lobster Inc., licencja: [GPLv2 lub nowsza](https://github.com/rocklobster-in/contact-form-7?tab=License-1-ov-file)
 
-Classic Honeypot for CF7 - GPLv2 lub nowsza
+Classic Honeypot for CF7 - autor: Nilo Velez, licencja: GPLv2 lub nowsza
 
-Yoast SEO - GPLv3
+Yoast SEO - autor: Yoast, licencja: GPLv3
 
-CookieYes - GPLv3
+CookieYes - autor: CookieYes, licencja: GPLv3
 
 Co oznacza GPL - oprogramowanie można używać (w tym komercyjnie), modyfikować i rozpowszechniać - przy rozpowszechnianiu wersji trzeba udostępnić ją na tej samej licencji. Sama treść naszej strony (teksty lub grafiki) nie muszą być na GPL
 
 ## Fonty
-Użyte donty to te dołączone do motywu Twenty Twenty-Five i serwowane lokalnie z serwera strony (czyli nie mamy tutaj Google Fonts CDN, czyli nie przekazujemy adresu IP użytkownika do Google zgodnie z RODO [GDPR])
+Użyte fonty to te dołączone do motywu Twenty Twenty-Five i serwowane lokalnie z serwera strony (czyli nie mamy tutaj Google Fonts CDN, czyli nie przekazujemy adresu IP użytkownika do Google zgodnie z RODO [GDPR])
 
-Literata - SIL Open Font License 1.1
+Literata - autor: TypeTogether - SIL Open Font License 1.1
 
-Fira Sans - SIL Open Font License (SIL OFL, Version 1.1)
+Fira Sans - The Mozilla foundation - SIL Open Font License (SIL OFL, Version 1.1)
 
 Co oznacza licencja OFL? font wolno używać, osadzać na stronie, modyfikować i rozpowszechniać wraz z oprogramowaniem, ale nie wolno sprzedawać samego pliku fontu
 
 ### Grafiki
 Grafiki w folderze `grafiki-ai/` - wygenerowane przez sztuczną inteligencję - Google Gemini, konto uczelniane
 
-Zdjęcie w banerze (Kariera) - CC0 1.0
+Zdjęcie w banerze (Kariera) - Wordpress Photo Directory - CC0 1.0
 
 Grafiki na stronie wygenerowane przy użyciu generatywnej sztucznej inteligencji są oznaczone na stronie podpisem (w tym wizerunki osób jako osoby fikcyjne). Zdjęcia/obrazki na CC0 można używać bez zgody i podawania autora
 
