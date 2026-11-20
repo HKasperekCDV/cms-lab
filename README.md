@@ -31,14 +31,18 @@ Grupa docelowa:
 - kandydaci na pracownika
 
 ## Persony
-1. Marta - założycielka startupu, potrzebuje strony internetowej
+1. Marta - założycielka startupu, szuka Software House, jaki zbuduje MVP jej aplikacji webowej
    - cel: zbudować mvp aplikacji w 3 miesiące
+   - problem: nie ma zespołu technicznego, nie wie jakiej agencji zaufać, boi się o budżet i termin wykonania
    - user flow: Homepage -> Usługi -> Kontakt
    - urządzenie: laptop - przegląda różne agencje oferujące tworzenie i utrzymanie aplikacji internetowych
+   - CTA: kliknięcie "Umów bezpłatną konsultację" i wysłanie formularza kontaktowego, zgodnie z user flow
 2. Jacek - web developer, student szukający pierwszej pracy jako junior web developer
    - cel: znaleźć pierwszą pracę w firmie, w jakiej będzie się rozwijać
+   - problem: nie ma doświadczenia komercyjnego, a większość ofert jakie widzi szuka senior developerów, nie wie, jaka firma przyjmie go na stanowisko juniorskie
    - user flow: Homepage -> Kariera -> Kontakt
    - urządzenie: smartfon - przegląda strony i oferty w przerwach między zajęciami
+   - CTA: zgłoszenie się na ofertę junior web developera poprzez formularz kontaktowy, przechodząc zgodnie z user flow
 
 ## Mapa strony
 - Strona główna
