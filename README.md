@@ -40,6 +40,13 @@ Grupa docelowa:
    - urządzenie: smartfon - przegląda strony i oferty w przerwach między zajęciami
    - CTA: zgłoszenie się na ofertę junior web developera poprzez formularz kontaktowy, przechodząc zgodnie z user flow
 
+## Decyzje projektowe
+- motyw Twenty Twenty-Five, wygląd zedytowany s Stylach globalnych
+- kolory: głównie jasne tło z ciemnym tekstem - białym lub jasnoszarym, w CTA odwrotnie - ciemne tło a jasny tekst
+- navbar ułożony zgodnie z mapą strony i ściezkami person podanych wyzej
+- sekcja Hero z strony głównej zapisana jako wzorzec "Hero z CTA" i użyta ponownie na stronie Usługi
+- Grafiki wygenerowane przez generatywną sztuczną inteligencję Gemini i oznaczone na stronie w odpowiedni sposób
+
 ## Mapa strony
 - Strona główna
 - O nas - historia firmy, stosy technologiczne, przykładowi eksperci
